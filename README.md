@@ -6,7 +6,6 @@
 https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg?w=826&t=st=1687245749~exp=1687246349~hmac=0a13289aadab1cdec2219adc8291365e814929eded45ac9b858cd06a2b9b9dc1"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lata-11&label=Profile%20views&color=0e75b6&style=flat" alt="lata-11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lata-11" alt="lata-11" /></a> </p>
 
 - 📫 How to reach me **imlata1111@gmail.com**
 
