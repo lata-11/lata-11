@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Lata</h1>
 <h3 align="center">A passionate full stack developer and competitive programmar from India</h3>
-<img align="right" width="400" src="
-https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg?w=826&t=st=1687245749~exp=1687246349~hmac=0a13289aadab1cdec2219adc8291365e814929eded45ac9b858cd06a2b9b9dc1"/>
+<img align="right" width="400" src="https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg?w=826&t=st=1687245749~exp=1687246349~hmac=0a13289aadab1cdec2219adc8291365e814929eded45ac9b858cd06a2b9b9dc1"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lata-11&label=Profile%20views&color=0e75b6&style=flat" alt="lata-11" /> </p>
 
 
